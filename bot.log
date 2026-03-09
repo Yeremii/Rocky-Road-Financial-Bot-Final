@@ -1,0 +1,212 @@
+2026-03-08 19:50:36,455 - RockyRoadBot - INFO - Google Sheets client initialized successfully
+2026-03-08 19:50:36,464 - RockyRoadBot - INFO - Starting Rocky Road Financial Bot...
+2026-03-08 19:50:36,465 - discord.client - INFO - logging in using static token
+2026-03-08 19:50:39,456 - RockyRoadBot - INFO - Logged in as Rocky Road Financial Bot#7127 (ID: 1467979126437707920)
+2026-03-08 19:50:39,457 - RockyRoadBot - INFO - Connected to 1 guild(s)
+2026-03-08 19:50:39,462 - RockyRoadBot - INFO - Dashboard API started on http://localhost:8080
+2026-03-08 19:50:39,462 - RockyRoadBot - INFO - Auto-sync task started (Sunday 1:55 PM EST)
+2026-03-08 19:50:39,462 - RockyRoadBot - INFO - Auto-invoice task started (Sunday 2:00 PM EST)
+2026-03-08 19:50:39,463 - RockyRoadBot - INFO - Monthly clear task started (23:55 CET daily, clears at month end)
+2026-03-08 19:50:39,463 - RockyRoadBot - INFO - Sheets backup task started (every 1 hour)
+2026-03-08 19:50:39,463 - RockyRoadBot - INFO - DB backup task started (every 6 hours)
+2026-03-08 19:50:39,463 - RockyRoadBot - INFO - Monthly leaderboard reset task started (1st of each month at 2:00 PM EST)
+2026-03-08 19:50:45,095 - RockyRoadBot - INFO - Sheets backup saved: Week_10_-_March_2026-03-08_14-50_EST.json
+2026-03-08 19:50:45,103 - RockyRoadBot - INFO - Database backup saved: rocky_road_Week_10_-_March_2026-03-08_14-50_EST.db
+2026-03-08 19:50:45,105 - RockyRoadBot - INFO - Old DB backup removed: rocky_road_Week_10_-_March_2026-03-02_17-29_EST.db
+2026-03-08 19:50:45,106 - RockyRoadBot - INFO - Cleared guild commands for ʀᴏᴄᴋʏ ʀᴏᴀᴅ ᴛᴏᴡ
+2026-03-08 19:50:45,409 - RockyRoadBot - INFO - Synced 18 global command(s)
+2026-03-08 20:04:50,967 - RockyRoadBot - INFO - Google Sheets client initialized successfully
+2026-03-08 20:04:50,975 - RockyRoadBot - INFO - Starting Rocky Road Financial Bot...
+2026-03-08 20:04:50,976 - discord.client - INFO - logging in using static token
+2026-03-08 20:04:54,088 - RockyRoadBot - INFO - Logged in as Rocky Road Financial Bot#7127 (ID: 1467979126437707920)
+2026-03-08 20:04:54,088 - RockyRoadBot - INFO - Connected to 1 guild(s)
+2026-03-08 20:04:54,091 - RockyRoadBot - INFO - Dashboard API started on http://localhost:8080
+2026-03-08 20:04:54,092 - RockyRoadBot - INFO - Auto-sync task started (Sunday 1:55 PM EST)
+2026-03-08 20:04:54,092 - RockyRoadBot - INFO - Auto-invoice task started (Sunday 2:00 PM EST)
+2026-03-08 20:04:54,092 - RockyRoadBot - INFO - Monthly clear task started (23:55 CET daily, clears at month end)
+2026-03-08 20:04:54,092 - RockyRoadBot - INFO - Sheets backup task started (every 1 hour)
+2026-03-08 20:04:54,092 - RockyRoadBot - INFO - DB backup task started (every 6 hours)
+2026-03-08 20:04:54,092 - RockyRoadBot - INFO - Monthly leaderboard reset task started (1st of each month at 2:00 PM EST)
+2026-03-08 20:05:00,407 - RockyRoadBot - INFO - Sheets backup saved: Week_10_-_March_2026-03-08_15-04_EST.json
+2026-03-08 20:05:00,415 - RockyRoadBot - INFO - Database backup saved: rocky_road_Week_10_-_March_2026-03-08_15-05_EST.db
+2026-03-08 20:05:00,417 - RockyRoadBot - INFO - Old DB backup removed: rocky_road_Week_10_-_March_2026-03-02_17-33_EST.db
+2026-03-08 20:05:00,418 - RockyRoadBot - INFO - Cleared guild commands for ʀᴏᴄᴋʏ ʀᴏᴀᴅ ᴛᴏᴡ
+2026-03-08 20:05:00,742 - RockyRoadBot - INFO - Synced 18 global command(s)
+2026-03-08 20:10:46,150 - RockyRoadBot - INFO - Google Sheets client initialized successfully
+2026-03-08 20:10:46,158 - RockyRoadBot - INFO - Starting Rocky Road Financial Bot...
+2026-03-08 20:10:46,160 - discord.client - INFO - logging in using static token
+2026-03-08 20:10:49,201 - RockyRoadBot - INFO - Logged in as Rocky Road Financial Bot#7127 (ID: 1467979126437707920)
+2026-03-08 20:10:49,202 - RockyRoadBot - INFO - Connected to 1 guild(s)
+2026-03-08 20:10:49,205 - RockyRoadBot - INFO - Dashboard API started on http://localhost:8080
+2026-03-08 20:10:49,206 - RockyRoadBot - INFO - Auto-sync task started (Sunday 1:55 PM EST)
+2026-03-08 20:10:49,206 - RockyRoadBot - INFO - Auto-invoice task started (Sunday 2:00 PM EST)
+2026-03-08 20:10:49,206 - RockyRoadBot - INFO - Monthly clear task started (23:55 CET daily, clears at month end)
+2026-03-08 20:10:49,206 - RockyRoadBot - INFO - Sheets backup task started (every 1 hour)
+2026-03-08 20:10:49,206 - RockyRoadBot - INFO - DB backup task started (every 6 hours)
+2026-03-08 20:10:49,206 - RockyRoadBot - INFO - Monthly leaderboard reset task started (1st of each month at 2:00 PM EST)
+2026-03-08 20:10:53,877 - RockyRoadBot - INFO - Sheets backup saved: Week_10_-_March_2026-03-08_15-10_EST.json
+2026-03-08 20:10:53,886 - RockyRoadBot - INFO - Database backup saved: rocky_road_Week_10_-_March_2026-03-08_15-10_EST.db
+2026-03-08 20:10:53,888 - RockyRoadBot - INFO - Old DB backup removed: rocky_road_Week_10_-_March_2026-03-02_17-39_EST.db
+2026-03-08 20:10:53,889 - RockyRoadBot - INFO - Cleared guild commands for ʀᴏᴄᴋʏ ʀᴏᴀᴅ ᴛᴏᴡ
+2026-03-08 20:10:54,266 - RockyRoadBot - INFO - Synced 18 global command(s)
+2026-03-08 20:14:54,667 - RockyRoadBot - INFO - Google Sheets client initialized successfully
+2026-03-08 20:14:54,675 - RockyRoadBot - INFO - Starting Rocky Road Financial Bot...
+2026-03-08 20:14:54,677 - discord.client - INFO - logging in using static token
+2026-03-08 20:14:57,708 - RockyRoadBot - INFO - Logged in as Rocky Road Financial Bot#7127 (ID: 1467979126437707920)
+2026-03-08 20:14:57,709 - RockyRoadBot - INFO - Connected to 1 guild(s)
+2026-03-08 20:14:57,712 - RockyRoadBot - INFO - Dashboard API started on http://localhost:8080
+2026-03-08 20:14:57,712 - RockyRoadBot - INFO - Auto-sync task started (Sunday 1:55 PM EST)
+2026-03-08 20:14:57,712 - RockyRoadBot - INFO - Auto-invoice task started (Sunday 2:00 PM EST)
+2026-03-08 20:14:57,713 - RockyRoadBot - INFO - Monthly clear task started (23:55 CET daily, clears at month end)
+2026-03-08 20:14:57,713 - RockyRoadBot - INFO - Sheets backup task started (every 1 hour)
+2026-03-08 20:14:57,713 - RockyRoadBot - INFO - DB backup task started (every 6 hours)
+2026-03-08 20:14:57,713 - RockyRoadBot - INFO - Monthly leaderboard reset task started (1st of each month at 2:00 PM EST)
+2026-03-08 20:15:02,928 - RockyRoadBot - INFO - Sheets backup saved: Week_10_-_March_2026-03-08_15-14_EST.json
+2026-03-08 20:15:02,939 - RockyRoadBot - INFO - Database backup saved: rocky_road_Week_10_-_March_2026-03-08_15-15_EST.db
+2026-03-08 20:15:02,942 - RockyRoadBot - INFO - Old DB backup removed: rocky_road_Week_10_-_March_2026-03-02_17-44_EST.db
+2026-03-08 20:15:02,942 - RockyRoadBot - INFO - Cleared guild commands for ʀᴏᴄᴋʏ ʀᴏᴀᴅ ᴛᴏᴡ
+2026-03-08 20:15:03,209 - RockyRoadBot - INFO - Synced 18 global command(s)
+2026-03-08 20:15:21,025 - RockyRoadBot - INFO - Google Sheets client initialized successfully
+2026-03-08 20:15:21,036 - RockyRoadBot - INFO - Starting Rocky Road Financial Bot...
+2026-03-08 20:15:21,037 - discord.client - INFO - logging in using static token
+2026-03-08 20:15:24,140 - RockyRoadBot - INFO - Logged in as Rocky Road Financial Bot#7127 (ID: 1467979126437707920)
+2026-03-08 20:15:24,141 - RockyRoadBot - INFO - Connected to 1 guild(s)
+2026-03-08 20:15:24,146 - RockyRoadBot - INFO - Dashboard API started on http://localhost:8080
+2026-03-08 20:15:24,146 - RockyRoadBot - INFO - Auto-sync task started (Sunday 1:55 PM EST)
+2026-03-08 20:15:24,147 - RockyRoadBot - INFO - Auto-invoice task started (Sunday 2:00 PM EST)
+2026-03-08 20:15:24,147 - RockyRoadBot - INFO - Monthly clear task started (23:55 CET daily, clears at month end)
+2026-03-08 20:15:24,147 - RockyRoadBot - INFO - Sheets backup task started (every 1 hour)
+2026-03-08 20:15:24,147 - RockyRoadBot - INFO - DB backup task started (every 6 hours)
+2026-03-08 20:15:24,147 - RockyRoadBot - INFO - Monthly leaderboard reset task started (1st of each month at 2:00 PM EST)
+2026-03-08 20:15:29,349 - RockyRoadBot - INFO - Sheets backup saved: Week_10_-_March_2026-03-08_15-15_EST.json
+2026-03-08 20:15:29,358 - RockyRoadBot - INFO - Database backup saved: rocky_road_Week_10_-_March_2026-03-08_15-15_EST.db
+2026-03-08 20:16:05,121 - RockyRoadBot - INFO - Cleared guild commands for ʀᴏᴄᴋʏ ʀᴏᴀᴅ ᴛᴏᴡ
+2026-03-08 20:16:05,428 - RockyRoadBot - INFO - Synced 18 global command(s)
+2026-03-08 20:17:18,443 - RockyRoadBot - INFO - Google Sheets client initialized successfully
+2026-03-08 20:17:18,450 - RockyRoadBot - INFO - Starting Rocky Road Financial Bot...
+2026-03-08 20:17:18,452 - discord.client - INFO - logging in using static token
+2026-03-08 20:17:21,648 - RockyRoadBot - INFO - Logged in as Rocky Road Financial Bot#7127 (ID: 1467979126437707920)
+2026-03-08 20:17:21,648 - RockyRoadBot - INFO - Connected to 1 guild(s)
+2026-03-08 20:17:21,651 - RockyRoadBot - INFO - Dashboard API started on http://localhost:8080
+2026-03-08 20:17:21,652 - RockyRoadBot - INFO - Auto-sync task started (Sunday 1:55 PM EST)
+2026-03-08 20:17:21,652 - RockyRoadBot - INFO - Auto-invoice task started (Sunday 2:00 PM EST)
+2026-03-08 20:17:21,652 - RockyRoadBot - INFO - Monthly clear task started (23:55 CET daily, clears at month end)
+2026-03-08 20:17:21,652 - RockyRoadBot - INFO - Sheets backup task started (every 1 hour)
+2026-03-08 20:17:21,652 - RockyRoadBot - INFO - DB backup task started (every 6 hours)
+2026-03-08 20:17:21,652 - RockyRoadBot - INFO - Monthly leaderboard reset task started (1st of each month at 2:00 PM EST)
+2026-03-08 20:17:26,780 - RockyRoadBot - INFO - Sheets backup saved: Week_10_-_March_2026-03-08_15-17_EST.json
+2026-03-08 20:17:26,788 - RockyRoadBot - INFO - Database backup saved: rocky_road_Week_10_-_March_2026-03-08_15-17_EST.db
+2026-03-08 20:17:26,791 - RockyRoadBot - INFO - Old DB backup removed: rocky_road_Week_10_-_March_2026-03-02_18-08_EST.db
+2026-03-08 20:17:26,791 - RockyRoadBot - INFO - Cleared guild commands for ʀᴏᴄᴋʏ ʀᴏᴀᴅ ᴛᴏᴡ
+2026-03-08 20:17:27,263 - RockyRoadBot - INFO - Synced 18 global command(s)
+2026-03-08 20:20:07,824 - RockyRoadBot - INFO - Google Sheets client initialized successfully
+2026-03-08 20:20:07,832 - RockyRoadBot - INFO - Starting Rocky Road Financial Bot...
+2026-03-08 20:20:07,833 - discord.client - INFO - logging in using static token
+2026-03-08 20:20:11,135 - RockyRoadBot - INFO - Logged in as Rocky Road Financial Bot#7127 (ID: 1467979126437707920)
+2026-03-08 20:20:11,136 - RockyRoadBot - INFO - Connected to 1 guild(s)
+2026-03-08 20:20:11,139 - discord.client - ERROR - Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "C:\Users\Yeremi Fivem\AppData\Local\Programs\Python\Python313\Lib\site-packages\discord\client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\Yeremi Fivem\Downloads\rocky_road_bot (8)\rocky_road_bot\bot.py", line 2154, in on_ready
+    await dashboard_api.start()
+  File "C:\Users\Yeremi Fivem\Downloads\rocky_road_bot (8)\rocky_road_bot\bot.py", line 1410, in start
+    await site.start()
+  File "C:\Users\Yeremi Fivem\AppData\Local\Programs\Python\Python313\Lib\site-packages\aiohttp\web_runner.py", line 121, in start
+    self._server = await loop.create_server(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\Yeremi Fivem\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 1616, in create_server
+    raise OSError(err.errno, msg) from None
+OSError: [Errno 10048] error while attempting to bind on address ('0.0.0.0', 8080): [winerror 10048] only one usage of each socket address (protocol/network address/port) is normally permitted
+2026-03-08 20:22:55,322 - RockyRoadBot - INFO - Google Sheets client initialized successfully
+2026-03-08 20:22:55,330 - RockyRoadBot - INFO - Starting Rocky Road Financial Bot...
+2026-03-08 20:22:55,332 - discord.client - INFO - logging in using static token
+2026-03-08 20:22:58,640 - RockyRoadBot - INFO - Logged in as Rocky Road Financial Bot#7127 (ID: 1467979126437707920)
+2026-03-08 20:22:58,640 - RockyRoadBot - INFO - Connected to 1 guild(s)
+2026-03-08 20:22:58,644 - RockyRoadBot - INFO - Dashboard API started on http://localhost:8080
+2026-03-08 20:22:58,644 - RockyRoadBot - INFO - Auto-sync task started (Sunday 1:55 PM EST)
+2026-03-08 20:22:58,644 - RockyRoadBot - INFO - Auto-invoice task started (Sunday 2:00 PM EST)
+2026-03-08 20:22:58,645 - RockyRoadBot - INFO - Monthly clear task started (23:55 CET daily, clears at month end)
+2026-03-08 20:22:58,645 - RockyRoadBot - INFO - Sheets backup task started (every 1 hour)
+2026-03-08 20:22:58,645 - RockyRoadBot - INFO - DB backup task started (every 6 hours)
+2026-03-08 20:22:58,645 - RockyRoadBot - INFO - Monthly leaderboard reset task started (1st of each month at 2:00 PM EST)
+2026-03-08 20:23:04,112 - RockyRoadBot - INFO - Sheets backup saved: Week_10_-_March_2026-03-08_15-22_EST.json
+2026-03-08 20:23:04,122 - RockyRoadBot - INFO - Database backup saved: rocky_road_Week_10_-_March_2026-03-08_15-23_EST.db
+2026-03-08 20:23:04,125 - RockyRoadBot - INFO - Old DB backup removed: rocky_road_Week_10_-_March_2026-03-03_12-52_EST.db
+2026-03-08 20:23:04,126 - RockyRoadBot - INFO - Cleared guild commands for ʀᴏᴄᴋʏ ʀᴏᴀᴅ ᴛᴏᴡ
+2026-03-08 20:23:04,403 - RockyRoadBot - INFO - Synced 18 global command(s)
+2026-03-08 21:17:26,861 - RockyRoadBot - INFO - Google Sheets client initialized successfully
+2026-03-08 21:17:26,870 - RockyRoadBot - INFO - Starting Rocky Road Financial Bot...
+2026-03-08 21:17:26,872 - discord.client - INFO - logging in using static token
+2026-03-08 21:17:29,911 - RockyRoadBot - INFO - Logged in as Rocky Road Financial Bot#7127 (ID: 1467979126437707920)
+2026-03-08 21:17:29,911 - RockyRoadBot - INFO - Connected to 1 guild(s)
+2026-03-08 21:17:29,917 - RockyRoadBot - INFO - Dashboard API started on http://localhost:8080
+2026-03-08 21:17:29,917 - RockyRoadBot - INFO - Auto-sync task started (Sunday 1:55 PM EST)
+2026-03-08 21:17:29,917 - RockyRoadBot - INFO - Auto-invoice task started (Sunday 2:00 PM EST)
+2026-03-08 21:17:29,918 - RockyRoadBot - INFO - Monthly clear task started (23:55 CET daily, clears at month end)
+2026-03-08 21:17:29,918 - RockyRoadBot - INFO - Sheets backup task started (every 1 hour)
+2026-03-08 21:17:29,918 - RockyRoadBot - INFO - DB backup task started (every 6 hours)
+2026-03-08 21:17:29,918 - RockyRoadBot - INFO - Monthly leaderboard reset task started (1st of each month at 2:00 PM EST)
+2026-03-08 21:17:34,241 - RockyRoadBot - INFO - Sheets backup saved: Week_10_-_March_2026-03-08_16-17_EST.json
+2026-03-08 21:17:34,250 - RockyRoadBot - INFO - Database backup saved: rocky_road_Week_10_-_March_2026-03-08_16-17_EST.db
+2026-03-08 21:17:34,252 - RockyRoadBot - INFO - Old DB backup removed: rocky_road_Week_10_-_March_2026-03-03_12-54_EST.db
+2026-03-08 21:17:34,252 - RockyRoadBot - INFO - Cleared guild commands for ʀᴏᴄᴋʏ ʀᴏᴀᴅ ᴛᴏᴡ
+2026-03-08 21:17:34,541 - RockyRoadBot - INFO - Synced 18 global command(s)
+2026-03-08 22:17:34,915 - RockyRoadBot - INFO - Sheets backup saved: Week_10_-_March_2026-03-08_17-17_EST.json
+2026-03-08 23:17:36,872 - RockyRoadBot - INFO - Sheets backup saved: Week_10_-_March_2026-03-08_18-17_EST.json
+2026-03-09 00:17:34,776 - RockyRoadBot - INFO - Sheets backup saved: Week_10_-_March_2026-03-08_19-17_EST.json
+2026-03-09 01:16:01,392 - RockyRoadBot - INFO - Google Sheets client initialized successfully
+2026-03-09 01:16:01,401 - RockyRoadBot - INFO - Starting Rocky Road Financial Bot...
+2026-03-09 01:16:01,402 - discord.client - INFO - logging in using static token
+2026-03-09 01:16:04,491 - RockyRoadBot - INFO - Logged in as Rocky Road Financial Bot#7127 (ID: 1467979126437707920)
+2026-03-09 01:16:04,491 - RockyRoadBot - INFO - Connected to 1 guild(s)
+2026-03-09 01:16:04,495 - RockyRoadBot - INFO - Dashboard API started on http://localhost:8080
+2026-03-09 01:16:04,495 - RockyRoadBot - INFO - Auto-sync task started (Sunday 1:55 PM EST)
+2026-03-09 01:16:04,495 - RockyRoadBot - INFO - Auto-invoice task started (Sunday 2:00 PM EST)
+2026-03-09 01:16:04,495 - RockyRoadBot - INFO - Monthly clear task started (23:55 CET daily, clears at month end)
+2026-03-09 01:16:04,495 - RockyRoadBot - INFO - Sheets backup task started (every 1 hour)
+2026-03-09 01:16:04,496 - RockyRoadBot - INFO - DB backup task started (every 6 hours)
+2026-03-09 01:16:04,496 - RockyRoadBot - INFO - Monthly leaderboard reset task started (1st of each month at 2:00 PM EST)
+2026-03-09 01:16:08,947 - RockyRoadBot - INFO - Sheets backup saved: Week_11_-_March_2026-03-08_20-16_EST.json
+2026-03-09 01:16:08,958 - RockyRoadBot - INFO - Database backup saved: rocky_road_Week_11_-_March_2026-03-08_20-16_EST.db
+2026-03-09 01:16:08,961 - RockyRoadBot - INFO - Old DB backup removed: rocky_road_Week_10_-_March_2026-03-04_12-22_EST.db
+2026-03-09 01:16:08,962 - RockyRoadBot - INFO - Cleared guild commands for ʀᴏᴄᴋʏ ʀᴏᴀᴅ ᴛᴏᴡ
+2026-03-09 01:16:09,263 - RockyRoadBot - INFO - Synced 18 global command(s)
+2026-03-09 01:39:27,435 - RockyRoadBot - INFO - Google Sheets client initialized successfully
+2026-03-09 01:39:27,442 - RockyRoadBot - INFO - Starting Rocky Road Financial Bot...
+2026-03-09 01:39:27,443 - discord.client - INFO - logging in using static token
+2026-03-09 01:39:30,425 - RockyRoadBot - INFO - Logged in as Rocky Road Financial Bot#7127 (ID: 1467979126437707920)
+2026-03-09 01:39:30,426 - RockyRoadBot - INFO - Connected to 1 guild(s)
+2026-03-09 01:39:30,429 - RockyRoadBot - INFO - Dashboard API started on http://localhost:8080
+2026-03-09 01:39:30,429 - RockyRoadBot - INFO - Auto-sync task started (Sunday 1:55 PM EST)
+2026-03-09 01:39:30,430 - RockyRoadBot - INFO - Auto-invoice task started (Sunday 2:00 PM EST)
+2026-03-09 01:39:30,430 - RockyRoadBot - INFO - Monthly clear task started (23:55 CET daily, clears at month end)
+2026-03-09 01:39:30,430 - RockyRoadBot - INFO - Sheets backup task started (every 1 hour)
+2026-03-09 01:39:30,430 - RockyRoadBot - INFO - DB backup task started (every 6 hours)
+2026-03-09 01:39:30,430 - RockyRoadBot - INFO - Monthly leaderboard reset task started (1st of each month at 2:00 PM EST)
+2026-03-09 01:39:35,670 - RockyRoadBot - INFO - Sheets backup saved: Week_11_-_March_2026-03-08_20-39_EST.json
+2026-03-09 01:39:35,679 - RockyRoadBot - INFO - Database backup saved: rocky_road_Week_11_-_March_2026-03-08_20-39_EST.db
+2026-03-09 01:39:35,681 - RockyRoadBot - INFO - Old DB backup removed: rocky_road_Week_10_-_March_2026-03-04_13-48_EST.db
+2026-03-09 01:39:35,682 - RockyRoadBot - WARNING - Backup file webhook failed: No module named 'aiofiles'
+2026-03-09 01:39:35,683 - RockyRoadBot - INFO - Cleared guild commands for ʀᴏᴄᴋʏ ʀᴏᴀᴅ ᴛᴏᴡ
+2026-03-09 01:39:35,948 - RockyRoadBot - INFO - Synced 18 global command(s)
+2026-03-09 01:40:17,726 - RockyRoadBot - INFO - Google Sheets client initialized successfully
+2026-03-09 01:40:17,734 - RockyRoadBot - INFO - Starting Rocky Road Financial Bot...
+2026-03-09 01:40:17,735 - discord.client - INFO - logging in using static token
+2026-03-09 01:40:20,823 - RockyRoadBot - INFO - Logged in as Rocky Road Financial Bot#7127 (ID: 1467979126437707920)
+2026-03-09 01:40:20,823 - RockyRoadBot - INFO - Connected to 1 guild(s)
+2026-03-09 01:40:20,827 - RockyRoadBot - INFO - Dashboard API started on http://localhost:8080
+2026-03-09 01:40:20,827 - RockyRoadBot - INFO - Auto-sync task started (Sunday 1:55 PM EST)
+2026-03-09 01:40:20,827 - RockyRoadBot - INFO - Auto-invoice task started (Sunday 2:00 PM EST)
+2026-03-09 01:40:20,828 - RockyRoadBot - INFO - Monthly clear task started (23:55 CET daily, clears at month end)
+2026-03-09 01:40:20,828 - RockyRoadBot - INFO - Sheets backup task started (every 1 hour)
+2026-03-09 01:40:20,828 - RockyRoadBot - INFO - DB backup task started (every 6 hours)
+2026-03-09 01:40:20,828 - RockyRoadBot - INFO - Monthly leaderboard reset task started (1st of each month at 2:00 PM EST)
+2026-03-09 01:40:24,666 - RockyRoadBot - INFO - Sheets backup saved: Week_11_-_March_2026-03-08_20-40_EST.json
+2026-03-09 01:40:24,675 - RockyRoadBot - INFO - Database backup saved: rocky_road_Week_11_-_March_2026-03-08_20-40_EST.db
+2026-03-09 01:40:24,677 - RockyRoadBot - INFO - Old DB backup removed: rocky_road_Week_10_-_March_2026-03-04_14-07_EST.db
+2026-03-09 01:40:24,683 - RockyRoadBot - INFO - Cleared guild commands for ʀᴏᴄᴋʏ ʀᴏᴀᴅ ᴛᴏᴡ
+2026-03-09 01:40:25,023 - RockyRoadBot - INFO - Synced 18 global command(s)
