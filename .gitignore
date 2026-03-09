@@ -1,0 +1,5 @@
+google_credentials.json
+.env
+*.db
+bot.log
+backups/
